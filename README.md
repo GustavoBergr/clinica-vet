@@ -15,7 +15,7 @@ O **VetCare** é um sistema web completo para gerenciamento de clínica veterin�
 ## 🗂️ Estrutura do Projeto
 
 ```
-1_codigo_e_banco/
+Código/
 ├── backend/
 │   ├── config/
 │   │   └── db.js                   # Conexão com o MySQL

@@ -3,7 +3,7 @@ const mysql = require('mysql2');
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'gustavo1234567890',        // altere para sua senha do MySQL
+  password: 'gustavo1234567890', 
   database: 'clinica_vet',
   charset: 'utf8mb4'
 });
