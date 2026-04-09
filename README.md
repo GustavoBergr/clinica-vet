@@ -9,7 +9,6 @@
 ## 📋 Sobre o Projeto
 
 O **VetCare** é um sistema web completo para gerenciamento de clínica veterinária. Permite cadastrar e gerenciar **Tutores**, **Animais** e **Consultas** com todas as operações CRUD (Create, Read, Update, Delete).
-
 ---
 
 ## 🗂️ Estrutura do Projeto
@@ -64,6 +63,7 @@ Código/
 Abra um terminal na pasta do projeto e execute:
 
 ```bash
+cd código (caso necessário)
 cd backend
 npm install
 node server.js
@@ -89,6 +89,7 @@ node server.js
 Abra **outro terminal** na pasta do projeto e execute:
 
 ```bash
+cd código (caso necessário)
 cd frontend
 npm install
 npm start
