@@ -63,7 +63,7 @@ Código/
 Abra um terminal na pasta do projeto e execute:
 
 ```bash
-cd código (caso necessário)
+cd código (caso necessário, para adentrar à pasta)
 cd backend
 npm install
 node server.js
@@ -89,7 +89,7 @@ node server.js
 Abra **outro terminal** na pasta do projeto e execute:
 
 ```bash
-cd código (caso necessário)
+cd código (caso necessário, para adentrar à pasta)
 cd frontend
 npm install
 npm start
